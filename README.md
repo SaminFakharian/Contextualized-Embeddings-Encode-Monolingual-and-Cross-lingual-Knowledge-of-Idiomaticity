@@ -18,6 +18,7 @@ You can find the code for each experiment in each sub-directory in the Source Co
 * mBERT
 * RuBERT
 * LAYERS
+* Cross-lingual
 
 ---
 ### Datasets:
