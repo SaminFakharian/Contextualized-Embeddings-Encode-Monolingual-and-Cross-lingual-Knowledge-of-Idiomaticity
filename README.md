@@ -22,11 +22,11 @@ You can find the code for each experiment in each sub-directory in the Source Co
 
 ---
 ### Datasets:
-Pre-processed datasets for our experiments are available in DataSets directory. If you wish to go through the process of preparing them by yourself, use the follwoing scrip files:
+Pre-processed datasets for our experiments are available in Datasets directory. If you wish to go through the process of preparing them by yourself, use the follwoing scrip files:
 
 ##### VNC-Tokens dataset:
 
-* Both DEV and TEST portions of this dataset are available in the Datasets directory.
+* The TEST portions of this dataset is available in the Datasets directory.
 
 ##### Russian Datasets:
 
